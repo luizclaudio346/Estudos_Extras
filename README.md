@@ -1,2 +1,2 @@
 # Estudos_Extras
- Projeto dedicado para Estudos Extras contendo exercícios práticos.
+Repositório dedicado para Estudos Extras contendo arquivos e exercícios práticos.
